@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leotecc
 - 👀 I’m interested in medical cannabis, holistic health and video games
 - 🌱 I’m currently learning flutter or rather app development
-- 💞️ I’m looking to collaborate on a green health community app
+- 💞️ I’m looking to collaborate....
 - 📫 How to reach me leotecc@protonmail.com
 
 <!---
